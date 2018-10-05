@@ -1,1 +1,1 @@
-FROM gcr.io/pause:v1.12.0
+FROM gcr.io/pause:3.1
